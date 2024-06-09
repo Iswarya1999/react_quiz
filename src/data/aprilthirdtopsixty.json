@@ -1,0 +1,665 @@
+{
+    "quizdata": [
+      {
+        "question": "According to the report 'Top 10 Busiest Airports Worldwide for 2023' released by the Airports Council International (ACI) World in April 2024, India’s Delhi Airport Indira Gandhi International Airport secured ________ position in 2023, while _________ secured the top position.",
+        "options": [
+          "9th; Tokyo Haneda International Airport",
+          "10th; Hartsfield-Jackson Atlanta International Airport",
+          "11th; Tokyo Haneda International Airport",
+          "10th; Dubai International Airport",
+          "12th; London Heathrow"
+        ],
+        "answer": "10th; Hartsfield-Jackson Atlanta International Airport"
+      },
+      {
+        "question": "Which company has recently (in April’ 24) formed a Joint Venture (JV) with BlackRock to set up a wealth management and broking business in India?",
+        "options": [
+          "Aditya Birla Finance",
+          "Jio Financial Services",
+          "Larsen & Toubro Finance",
+          "Bajaj Finance Limited",
+          "Tata Capital Financial Services"
+        ],
+        "answer": "Jio Financial Services"
+      },
+      {
+        "question": "In April 2024, the Reserve Bank of India(RBI) mandated all Regulated entities (REs) to provide key facts statements (KFS) to all new retail and Micro, Small & Medium Enterprises (MSME) borrowers with effect from _________.",
+        "options": [
+          "1st August 2024",
+          "1st September 2024",
+          "1st October 2024",
+          "1st November 2024",
+          "1st December 2024"
+        ],
+        "answer": "1st October 2024"
+      },
+      {
+        "question": "Who has been recently (in April ‘24) appointed as Prime Minister (PM) of Kuwait?",
+        "options": [
+          "Emad Mohammed al-Atiqi",
+          "Ahmad Abdulwahhab al-Awadhi",
+          "Abdulrahman Badah al-Mutairi",
+          "Sheikh Ahmad Abdullah al-Ahmad Al-Sabah",
+          "Anwar Ali aL-Mudhaf"
+        ],
+        "answer": "Sheikh Ahmad Abdullah al-Ahmad Al-Sabah"
+      },
+      {
+        "question": "Name the Indian Pilot who has been recently (in April ‘24) selected among 6 crew members to fly on Blue Origin’s New Shepard-25 (NS-25) space tourism mission.",
+        "options": [
+          "Gopi Thotakura",
+          "Srinath Ravichandran",
+          "Rohan M Ganapathy Yashas Karanam",
+          "Sanjay Srikanth Nekkanti",
+          "D Radhakrishnan"
+        ],
+        "answer": "Gopi Thotakura"
+      },
+      {
+        "question": "Which space organisation has recently (in April’ 24) developed a light weight CarbonCarbon(C-C) nozzle for rocket engine?",
+        "options": [
+          "Space Exploration Technologies Corporation",
+          "National Aeronautics and Space Administration",
+          "China National Space Administration",
+          "Indian Space Research Organisation",
+          "European Space Agency"
+        ],
+        "answer": "Indian Space Research Organisation"
+      },
+      {
+        "question": "When was the World Quantum Day 2024 observed across the globe?",
+        "options": [
+          "13th April 2024",
+          "11th April 2024",
+          "10th April 2024",
+          "12th April 2024",
+          "14th April 2024"
+        ],
+        "answer": "14th April 2024"
+      },
+      {
+        "question": "In April 2024, the Ministry of Health & Family Welfare (MoHFW) extended the deadline for linking the Ayushman Bharat Health Account (ABHA) ID with the Central Government Health Scheme (CGHS) Beneficiary ID to _________ (Days).",
+        "options": [
+          "120",
+          "130",
+          "160",
+          "110",
+          "100"
+        ],
+        "answer": "120"
+      },
+      {
+        "question": "According to the “Interwoven Lives, Threads of Hope: Ending Inequalities in Sexual and Reproductive Health and Rights” report released by the United Nations Population Fund’s (UNFPA) State of World Population in April 2024, India's population is expected to touch ________ surpassing China's 1.425 billion.",
+        "options": [
+          "1.43 billion",
+          "1.44 billion",
+          "1.45 billion",
+          "1.46 billion",
+          "1.47 billion"
+        ],
+        "answer": "1.44 billion"
+      },
+      {
+        "question": "Which of the following State Rural Livelihoods Mission(SRLM) has recently (in April’ 24) signed an MoU with Small Industries Development Bank of India(SIDBI) to extend Prayaas scheme to Self-Help Group(SHG) individual women through Cluster Level Federations(CLFs)?",
+        "options": [
+          "Jeevika, Bihar SRLM",
+          "UMED, Maharashtra SRLM",
+          "Swarna Jayanti, Punjab SRLM",
+          "Both 1 & 2",
+          "Both 2 & 3"
+        ],
+        "answer": "Both 1 & 2"
+      },
+      {
+        "question": "According to the report released by the United Nations Conference on Trade and Development (UNCTAD), in April 2024, the Indian economy is expected to grow by ______ in 2024.",
+        "options": [
+          "7.1%",
+          "6.9%",
+          "6.8%",
+          "6.5%",
+          "6.7%"
+        ],
+        "answer": "6.5%"
+      },
+      {
+        "question": "According to the World Economic Outlook(WEO) – Steady But Slow: Resilience Amid Divergence released by the International Monetary Fund (IMF) in April 2024, India’s GDP growth forecast by 30 basis points(bps) to _________ for FY25.",
+        "options": [
+          "6.1%",
+          "8.2%",
+          "7.7%",
+          "6.8%",
+          "7.9%"
+        ],
+        "answer": "6.8%"
+      },
+      {
+        "question": "In April 2024, the Ministry of Law and Justice (MoL&J) constituted a 6-member committee to examine various issues relating to the Queer community (LGBTQIA+). The Committee is headed by the_________________.",
+        "options": [
+          "Gopalaswamy Ayyangar",
+          "Adhir Ranjan Chowdhury",
+          "Bhola Singh",
+          "Rajkumar Ranjan",
+          "Rajiv Gauba"
+        ],
+        "answer": "Rajiv Gauba"
+      },
+      {
+        "question": "In April 2024, the Competition Commission of India (CCI) approved the acquisition of 100% of the share capital of PAMP Technologies (India) and_______ of the share capital on a fully diluted basis of MMTC PAMP (India) by PAMP Ventures SA (PAMP Switzerland).",
+        "options": [
+          "84.36%",
+          "67.31%",
+          "59.17%",
+          "72.65%",
+          "49.89%"
+        ],
+        "answer": "72.65%"
+      },
+      {
+        "question": "Which of the following points is/ are “correct” with respect to Monte Carlo Masters 2024?\nA) Stefanos Tsitsipas, Greek tennis player won the Singles title at the Monte Carlo Masters 2024 by defeating Norway’s Casper Ruud.\nB) Alum Sander Gille and Joran Vliegan, Belgian tennis players won the doubles title at the Rolex Monte-Carlo Masters 2024 by defeating Marcelo Melo of Brazil and Alexander Zverev of Germany.\nC) Sumit Nagal, India’s tennis player became the 1st ever Indian to win a main draw match by defeating Matteo Arnaldi of Italy.\n1) Only A\n2) Only A & B\n3) Only B & C\n4) Only A & C\n5) All A, B & C",
+        "options": [
+          "1) Only A",
+          "2) Only A & B",
+          "3) Only B & C",
+          "4) Only A & C",
+          "5) All A, B & C"
+        ],
+        "answer": "5) All A, B & C"
+      },
+      {
+        "question": "In April 2024, the Ministry of Finance notified the amendment to Foreign Exchange Management (Non-Debt Instruments Rules) Rules 2019 to operationalise the new foreign direct investment (FDI) limits for satellite-related activities. FDI is allowed up to _________ under the automatic route for manufacturing of components and systems or sub-systems for satellites, ground segment and user segment.",
+        "options": [
+          "100%",
+          "75%",
+          "50%",
+          "60%",
+          "80%"
+        ],
+        "answer": "100%"
+      },
+      {
+        "question": "In April 2024, the government set up a seven-member panel to promote the commercially viable extraction of critical minerals found in limited quantities. Who will head the panel?",
+        "options": [
+          "Baldeep Kumar",
+          "Senthil Pandiyan",
+          "Vijay Kumar Saraswat",
+          "Sachin Shinde",
+          "P. K. Srivastava"
+        ],
+        "answer": "Vijay Kumar Saraswat"
+      },
+      {
+        "question": "In April 2024, which state received Geographical Indication (GI) tags for 13 new products, including Tirangi Barfi and Banaras Metal Casting Craft?",
+        "options": [
+          "Madhya Pradesh",
+          "Uttarakhand",
+          "Maharashtra",
+          "Bihar",
+          "Uttar Pradesh"
+        ],
+        "answer": "Uttar Pradesh"
+      },
+      {
+        "question": "Which edition of India-Uzbekistan Joint Military Exercise ‘DUSTLIK 2024’, commenced at Termez District, the Republic of Uzbekistan in April 2024?",
+        "options": [
+          "3rd",
+          "5th",
+          "8th",
+          "6th",
+          "7th"
+        ],
+        "answer": "5th"
+      },
+      {
+        "question": "Which regulatory body/Government office has recently (in April ‘24) constituted a standing committee to transform GIFT City (Gujarat International Finance Tec-City) into Climate Finance Hub?",
+        "options": [
+          "Insurance Regulatory and Development Authority of India",
+          "International Financial Centres Authority",
+          "Securities and Exchange Board of India",
+          "Reserve Bank of India",
+          "Small Industries Development Bank of India"
+        ],
+        "answer": "International Financial Centres Authority"
+      },
+      {
+        "question": "According to the report ‘Viksit Bharat @2047’ released by PHDCCI (PHD Chamber of Commerce and Industry) in April 2024, India’s economy is projected to grow at ________ in FY25.",
+        "options": [
+          "8.5-8.7%",
+          "7.4-7.6%",
+          "7-7.2%",
+          "8-8.3%",
+          "8.3-8.5%"
+        ],
+        "answer": "8-8.3%"
+      },
+      {
+        "question": "In which state, the Defence Research and Development Organisation (DRDO) has recently (in April ‘24) inaugurated the Submersible Platform for Acoustic Characterisation and Evaluation (SPACE), a Testing Hub for Sonar Systems for the Indian Navy?",
+        "options": [
+          "Navsari, Gujarat",
+          "Idukki, Kerala",
+          "Visakhapatnam, Andhra Pradesh",
+          "Mandarmani, West Bengal",
+          "Ratnagiri, Maharashtra"
+        ],
+        "answer": "Idukki, Kerala"
+      },
+      {
+        "question": "How many medals were recently (in April ‘24) won by the Indian wrestlers in the Asian Wrestling Championships (Seniors) 2024 held in Bishkek, Kyrgyzstan.",
+        "options": [
+          "10",
+          "7",
+          "8",
+          "9",
+          "6"
+        ],
+        "answer": "9"
+      },
+      {
+        "question": "When was the International Day for Monuments and Sites/World Heritage Day 2024 observed across the globe?",
+        "options": [
+          "17th April 2024",
+          "15th April 2024",
+          "14th April 2024",
+          "16th April 2024",
+          "18th April 2024"
+        ],
+        "answer": "18th April 2024"
+      },
+      {
+        "question": "In April 2024, a team of archaeologists discovered a unique Iron Age Megalithic site at ________ (State/UT).",
+        "options": [
+          "Arunachal Pradesh",
+          "Karnataka",
+          "Telangana",
+          "Jammu & Kashmir",
+          "Gujarat"
+        ],
+        "answer": "Telangana"
+      },
+      {
+        "question": "Which country has recently (in April' 24) signed an agreement with India to operate a large research hub in New Delhi?",
+        "options": [
+          "Singapore",
+          "Russia",
+          "United States of America",
+          "Japan",
+          "Germany"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which of the following statements are correct with respect to Skytrax World Airport Awards 2024 released in April 2024?\nA) Doha’s (Qatar) Hamad International Airport (HIA) has been named as the World’s Best Airport 2024.\nB) The Delhi International Airport has secured 36th place on the list and emerged as the Best Airport in India and South Asia.\nC) Tokyo Haneda Airport (Japan) has been declared the World’s and Asia’s Cleanest Airport for 2024.\nD) None of the above.",
+        "options": [
+          "1) Only A",
+          "2) Only B",
+          "3) Only C",
+          "4) Only D",
+          "5) All A, B & C"
+        ],
+        "answer": "5) All A, B & C"
+      },
+      {
+        "question": "Which country has recently (in April’ 24) became the 38th nation to sign the National Aeronautics and Space Administration(NASA)’s “Artemis Accords” for space exploration?",
+        "options": [
+          "Switzerland",
+          "Germany",
+          "Finland",
+          "Sweden",
+          "Italy"
+        ],
+        "answer": "Sweden"
+      },
+      {
+        "question": "Which bank has recently (in April’ 24) collaborated with National Payments Corporation of India (NPCI) to introduce eco-friendly NCMC (National Common Mobility Cards) debit and prepaid cards?",
+        "options": [
+          "Jio Payments Bank",
+          "India Post Payments Bank",
+          "Paytm Payments Bank",
+          "Airtel Payments Bank",
+          "NSDL Payments Bank"
+        ],
+        "answer": "Airtel Payments Bank"
+      },
+      {
+        "question": "Which of the following Indian personalities is ‘Not’ featured in the 21st edition of annual “TIME 100 most influential people 2024” released in April 2024?",
+        "options": [
+          "Alia Bhatt",
+          "Sakshi Malik",
+          "Mahendra Singh Dhoni",
+          "Satya Nadella",
+          "Priyamvada Natarajan"
+        ],
+        "answer": "Mahendra Singh Dhoni"
+      },
+      {
+        "question": "Which of the following personalities is ‘Not’ revealed as the Five Wisden Cricketers of the Year in the 2024 edition of the Wisden Cricketers’ Almanack in April 2024?",
+        "options": [
+          "Pat Cummins",
+          "Usman Khawaja",
+          "Ash Gardner",
+          "Harry Brook",
+          "Mark Wood"
+        ],
+        "answer": "Pat Cummins"
+      },
+      {
+        "question": "In April 2024, Defence Research and Development Organisation (DRDO) conducted a flight test of Indigenous Technology Cruise Missile (ITCM) at ________________(city).",
+        "options": [
+          "Sriharikota, Andhra Pradesh",
+          "Jaisalmer, Rajasthan",
+          "Chandipur, Odisha",
+          "Medinipur, West Bengal",
+          "Mahendragiri, Tamil Nadu"
+        ],
+        "answer": "Chandipur, Odisha"
+      },
+      {
+        "question": "Which company has recently (in April ‘24) received the Navratna status from the Department of Public Enterprise (DPE)?",
+        "options": [
+          "National Fertilizers Limited",
+          "Hindustan Salts Limited",
+          "National Bicycle Corporation of India",
+          "NEPA Limited",
+          "Hindustan Paper Corporation Limited"
+        ],
+        "answer": "National Fertilizers Limited"
+      },
+      {
+        "question": "Which country’s National Audit Office has recently (in April’ 24) signed an MoU The Comptroller and Auditor General of India (CAG) to foster international cooperation?",
+        "options": [
+          "Greece",
+          "Turkey",
+          "France",
+          "Bulgaria",
+          "Italy"
+        ],
+        "answer": "Bulgaria"
+      },
+      {
+        "question": "Which regulatory body has celebrated its Silver Jubilee (25 years) on 19th April 2024?",
+        "options": [
+          "1) Securities and Exchange Board of India",
+          "2) Insurance Regulatory and Development Authority of India",
+          "3) National Bank for Agriculture and RuralDevelopment",
+          "4) Small Industries Development Bank of India",
+          "5) Telecom Regulatory Authority of India"
+        ],
+        "answer": "2) Insurance Regulatory and Development Authority of India"
+      },
+      {
+        "question": "In April 2024, the ReNew Energy Global PLC (ReNew) and JERA Co. Inc. signed an initial agreement to assess a green ammonia production project in ______ (state).",
+        "options": [
+          "1) Rajasthan",
+          "2) Karnataka",
+          "3) Maharashtra",
+          "4) Odisha",
+          "5) Gujarat"
+        ],
+        "answer": "4) Odisha"
+      },
+      {
+        "question": "Who has been recently (in April’ 24) appointed as 26th Chief of Naval Staff of the Indian Navy?",
+        "options": [
+          "1) Dinesh Kumar Tripathi",
+          "2) Manoj Pande",
+          "3) Anudeep Shinde",
+          "4) Mujahid Anwar",
+          "5) Hari Kumar"
+        ],
+        "answer": "1) Dinesh Kumar Tripathi"
+      },
+      {
+        "question": "Who has been recently (in April’ 24) appointed as the Director-General (D-G) of National Security Guard (NSG)?",
+        "options": [
+          "1) Sandeep Kumar",
+          "2) Anil Choudary",
+          "3) Nallathamby Kalaiselvi",
+          "4) Poonam Gupta",
+          "5) Nalin Prabhat"
+        ],
+        "answer": "5) Nalin Prabhat"
+      },
+      {
+        "question": "Who has been recently (in April’ 24) appointed as the Managing Director & Chief Executive Officer of Dhanlaxmi Bank by the Reserve Bank of India (RBI)?",
+        "options": [
+          "1) Sandeep Bakhshi",
+          "2) V. Vaidyanathan",
+          "3) Padmaja Chunduru",
+          "4) Rakesh Sharma",
+          "5) Ajith Kumar KK"
+        ],
+        "answer": "5) Ajith Kumar KK"
+      },
+      {
+        "question": "In April 2024, India delivered the first batch of BrahMos supersonic cruise missiles to _______ (country).",
+        "options": [
+          "1) Japan",
+          "2) Philippines",
+          "3) Malaysia",
+          "4) Germany",
+          "5) Singapore"
+        ],
+        "answer": "2) Philippines"
+      },
+      {
+        "question": "Which naval exercise has been recently (in April’ 24) conducted by the Indian Navy on the East Coast?",
+        "options": [
+          "1) DUSTLIK",
+          "2) SIMBEX",
+          "3) Harimau Shakti",
+          "4) Poorvi Lehar",
+          "5) CHAKRAVAT"
+        ],
+        "answer": "4) Poorvi Lehar"
+      },
+      {
+        "question": "Which of the following statements is/are correct with respect to the report ‘Trends in World Military Expenditure, 2023’ released by Stockholm International Peace Research Institute (SIPRI) in April 2024?\n\nA) The total global military expenditure was increased for the 9th consecutive year to an all-time high of USD 2443 billion in 2023.\nB) India was the 4th largest spender globally with a military expenditure of USD 83.6 billion in 2023.\nC) The total Military Expenditure rose to 3.2% of global gross domestic product (GDP) in 2023.",
+        "options": [
+          "only a",
+          "both a and b",
+          "both a and c",
+          "both b and c",
+          "all a, b and c"
+        ],
+        "answer": "both a and b"
+      },
+      {
+        "question": "Which of the following statements is/are correct with respect to the list of top 50 largest banks in Asia-Pacific Region by Assets – 2024 released by The S&P Global Market Intelligence?\n\nA) China’s Industrial and Commercial Bank of China limited retained its position as the largest bank in Asia pacific as well as in the world in 2023.\nB) ICICI Bank, 2nd largest private sector bank in India, has made its debut with the rank 48th position in the top 50 Asia-Pacific lender list in 2023.\nC) State Bank of India, India’s largest Public Sector Bank(PSB), has ranked 20th in 2023.",
+        "options": [
+          "only a",
+          "only a and b",
+          "only b and c",
+          "only a and c",
+          "all a, b and c"
+        ],
+        "answer": "all a, b and c"
+      },
+      {
+        "question": "In April 2024, ________ Multilateral Development Banks (MDBs) launched a new “Global Collaborative Co-Financing” Platform at the International Monetary Fund(IMF) and World Bank Spring meetings 2024, which took place in Washington D.C.(USA).",
+        "options": [
+          "1) 7",
+          "2) 8",
+          "3) 9",
+          "4) 10",
+          "5) 11"
+        ],
+        "answer": "4) 10"
+      },
+      {
+        "question": "Which company has recently (in April’ 24) won the 15th Construction Industry Development Council (CIDC) Vishwakarma Awards 2024 for Social Development and Impact?",
+        "options": [
+          "1) Tata Realty and Infrastructure",
+          "2) Puravankara Limited",
+          "3) Prestige Group",
+          "4) Alfa Infraprop Private Limited",
+          "5) Golden Edifice"
+        ],
+        "answer": "2) Puravankara Limited"
+      },
+      {
+        "question": "46. Which of the following statements is/are correct with respect to International Chess Federation (FIDE) Candidates 2024?\n\nA) Dommaraju Gukesh (India) has won (Open category) by defeating Hikaru Nakamura of the United States to score 9 points.\nB) Tan Zhongyi (China) has won the candidates 2024 (Women’s category).\nC) R. Praggnanandhaa (India) has ranked 5th in the Candidates 2024 Men’s category.",
+        "options": [
+          "only a",
+          "both a and b",
+          "both a and c",
+          "both b and c",
+          "all a, b and c"
+        ],
+        "answer": "all a, b and c"
+      },
+      {
+        "question": "Name the Belgian-Dutch driver who has won the Formula 1 (F1) Chinese Grand Prix (GP) 2024 held at the Shanghai International Circuit in Shanghai, China on 21st April 2024.",
+        "options": [
+          "1) Michael Bleekemolen",
+          "2) Lando Norris",
+          "3) Sergio Perez",
+          "4) Max Verstappen",
+          "5) Christijan Albers"
+        ],
+        "answer": "4) Max Verstappen"
+      },
+      {
+        "question": "Name the author who has recently (in April’ 24) released his new book ‘Heavenly Islands of Goa’.",
+        "options": [
+          "1) Sreedharan Pillai",
+          "2) Mrinal Pande",
+          "3) Ravi Subramanian",
+          "4) Satyapal Chandra",
+          "5) C. V. Balakrishnan"
+        ],
+        "answer": "1) Sreedharan Pillai"
+      },
+      {
+        "question": "When was the National Civil Services Day 2024 observed across India?",
+        "options": [
+          "1) 17th April 2024",
+          "2) 18th April 2024",
+          "3) 19th April 2024",
+          "4) 20th April 2024",
+          "5) 21st April 2024"
+        ],
+        "answer": "5) 21st April 2024"
+      },
+      {
+        "question": "What was the theme of International Mother Earth Day 2024?",
+        "options": [
+          "1) Restore our Earth",
+          "2) Climate Action",
+          "3) Invest in our planet",
+          "4) Planet vs Plastics",
+          "5) Protect Our Species"
+        ],
+        "answer": "4) Planet vs Plastics"
+      },
+      {
+        "question": "Who has been recently (in April ‘'24) appointed as the Independent Director of RBL Bank?",
+        "options": [
+          "R. Subramaniakumar",
+          "Rajiv Ahuja",
+          "Manjeev Singh Puri",
+          "Murali Ramakrishnan",
+          "Ishan Raina"
+        ],
+        "answer": "Murali Ramakrishnan"
+      },
+      {
+        "question": "Which state has celebrated the Longte festival on 15th April 2024?",
+        "options": [
+          "Himachal Pradesh",
+          "Shimla",
+          "Meghalaya",
+          "Karnataka",
+          "Arunachal Pradesh"
+        ],
+        "answer": "Arunachal Pradesh"
+      },
+      {
+        "question": "Which space agency has recently (in April’ 24) identified the biggest stellar black hole named ‘Gaia BH3’ in the Milky Way with a mass 33 times that of the Sun?",
+        "options": [
+          "National Aeronautics and Space Administration",
+          "Indian Space Research Organisation",
+          "Japan Aerospace Exploration Agency",
+          "European Space Agency",
+          "China National Space Administration"
+        ],
+        "answer": "European Space Agency"
+      },
+      {
+        "question": "Who has been recently (in April ‘24) given additional charge of Secretary of the Ministry of Statistics and Programme Implementation (MoSPI)?",
+        "options": [
+          "Ashwini Kumar",
+          "Rajiv Ranjan",
+          "Ashok Khemka",
+          "Saurabh Garg",
+          "Nikhil Gajraj"
+        ],
+        "answer": "Saurabh Garg"
+      },
+      {
+        "question": "Which bank has released a book titled 'Anarkali Bazaar, Lahore to Dwarka, Delhi - A 130 Years Saga of Excellence' on its 130th Foundation Day on 12th April 2024?",
+        "options": [
+          "Bank of Baroda",
+          "Punjab National Bank",
+          "Indian Bank",
+          "Canara Bank",
+          "UCO Bank"
+        ],
+        "answer": "Punjab National Bank"
+      },
+      {
+        "question": "In April 2024, the Employees' Provident Funds Organisation (EPFO) raised the auto withdrawal limit under Paragraph 69J from Rs 50,000 to Rs ___________.",
+        "options": [
+          "1,50,000",
+          "2,00,000",
+          "80,000",
+          "70,000",
+          "1,00,000"
+        ],
+        "answer": "1,00,000"
+      },
+      {
+        "question": "Name the company that has recently (in April’ 24) formed the joint venture (JV) with CleanMax in six rooftop solar projects in India with a total capacity of 14.4 megawatts (MW).",
+        "options": [
+          "Google",
+          "Microsoft",
+          "Oracle",
+          "Apple",
+          "Flipkart"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which company has recently (in April’ 24) signed a contract worth Rs 233 crore with the National Bank for Agriculture and Rural Development (NABARD) for core banking solution upgradation & migration on Application Service Provider (ASP) Model?",
+        "options": [
+          "Cigniti Technologies",
+          "Dotsquares",
+          "Dynacons Systems & Solutions",
+          "Ibexlabs",
+          "Magneto IT Solutions"
+        ],
+        "answer": "Dynacons Systems & Solutions"
+      },
+      {
+        "question": "Which Insurance company has recently (in April ‘24) partnered with Meta to introduce premium payment options on WhatsApp?",
+        "options": [
+          "Aditya Birla Sun Life Insurance",
+          "Bajaj Allianz Life Insurance",
+          "Mahindra Life Insurance",
+          "MetLife India Insurance",
+          "Aviva Life Insurance"
+        ],
+        "answer": "Bajaj Allianz Life Insurance"
+      },
+      {
+        "question": "As per the World Silver Survey 2024 conducted by ‘The Silver Institute’, United State of America (USA) in April 2024, which company has become the third largest silver producer globally?",
+        "options": [
+          "Hindustan Zinc",
+          "Bharat Aluminium Company",
+          "Electrosteel",
+          "Sterlite Technologies",
+          "Coal India"
+        ],
+        "answer": "Hindustan Zinc"
+      }
+    ]
+  }
+  
