@@ -9,7 +9,7 @@ const QuizApp = () => {
   const [data,setData]= useState([]);
 useEffect(()=>{
   getData()
-},[id])
+},[data])
 const getData = () =>{
   let q;
 if(month === "april" && id === "3"){
