@@ -1,27 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import './quiz.css'; // Import your CSS file
 import Question from '../data/aprilthirdtopsixty.json';
-import { useParams } from 'react-router-dom'; // Import useParams
+// import { useParams } from 'react-router-dom'; // Import useParams
 import { Link } from 'react-router-dom'; // Import Link
 
 const QuizApp = () => {
-  const {month, id } = useParams(); // Access the parameter from the URL
-  const [data,setData]= useState([]);
-useEffect(()=>{
-  getData()
-},[data])
-const getData = () =>{
-  let q;
-if(month === "april" && id === "3"){
-  q = Question.quizdata;
-}
+  // const {month, id } = useParams(); 
+  // const [data,setData]= useState([]);
+// useEffect(()=>{
+//   getData()
+// },[data])
+// const getData = () =>{
+//   let q;
+// if(month === "april" && id === "3"){
+//   q = Question.quizdata;
+// }
 // if(month === 'may' && id === "3"){
 //    q = MayThirdTopSixty.quizdata;
 // }
-setData(q)
+// setData(q)
 
-}
-let questions = data;
+// }
+let questions = Question.quizdata;
 
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
