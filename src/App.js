@@ -1,18 +1,39 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import CurrentAffair from './pages/CurrentAffair';
-import QuizApp from './components/Quiz';
+import React, { useState } from 'react';
+import Maze from '../src/pages/Maze';
+import levels from '../src/data/levels.json';
+import "./App.css";
 
 const App = () => {
+  const [level, setLevel] = useState('easy');
+  const [gameStarted, setGameStarted] = useState(false);
+  
+  const startGame = (selectedLevel) => {
+    setLevel(selectedLevel);
+    setGameStarted(true);
+  };
+
+  const handleBackToHome = () => {
+    setGameStarted(false);
+    setLevel('easy');
+  };
+
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<CurrentAffair />} />
-        <Route path="/quiz/:month/:id" element={<QuizApp />} />
-      </Routes>
-    </Router>
+    <div className="app">
+      <h1>Maze Game</h1>
+      {!gameStarted ? (
+        <div>
+          <h2>Select Level</h2>
+        <div className="btnContainer">
+          <button className="btn" onClick={() => startGame('easy')}>Easy</button>
+          <button className="btn" onClick={() => startGame('intermediate')}>Intermediate</button>
+          <button className="btn" onClick={() => startGame('hard')}>Hard</button>
+        </div>
+        </div>
+      ) : (
+        <Maze level={level} onBackToHome={handleBackToHome} />
+      )}
+    </div>
   );
 };
 
 export default App;
-
