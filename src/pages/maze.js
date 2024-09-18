@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Maze.css';
+import './maze.css';
 import levels from '../data/levels.json';
 
 const Maze = ({ level, onBackToHome }) => {

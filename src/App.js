@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Maze from '../src/pages/Maze';
+import Maze from '../src/pages/maze';
 import levels from '../src/data/levels.json';
 import "./App.css";
 
