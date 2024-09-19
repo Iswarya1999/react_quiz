@@ -21,8 +21,8 @@ const App = () => {
     <div className="app">
       <h1>Maze Game</h1>
       {!gameStarted ? (
-        <div>
           <h2>Select Level</h2>
+        <div>
         <div className="btnContainer">
           <button className="btn" onClick={() => startGame('easy')}>Easy</button>
           <button className="btn" onClick={() => startGame('intermediate')}>Intermediate</button>
