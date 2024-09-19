@@ -15,6 +15,7 @@
 
 .maze {
   display: inline-block;
+  margin-top: -30px;
 }
 
 .maze-grid {
