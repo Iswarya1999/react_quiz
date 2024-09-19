@@ -21,6 +21,7 @@ const App = () => {
     <div className="app">
       <h1>Maze Game</h1>
       {!gameStarted ? (
+        <>
           <h2>Select Level</h2>
         <div>
         <div className="btnContainer">
@@ -29,6 +30,7 @@ const App = () => {
           <button className="btn" onClick={() => startGame('hard')}>Hard</button>
         </div>
         </div>
+        </>
       ) : (
         <Maze level={level} onBackToHome={handleBackToHome} />
       )}
